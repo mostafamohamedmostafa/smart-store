@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/smart-store/static/css/main.ff02f4b5.css",
-    "main.js": "/smart-store/static/js/main.b4ece9e8.js",
+    "main.css": "/smart-store/static/css/main.17abc7a1.css",
+    "main.js": "/smart-store/static/js/main.9d0ded03.js",
     "static/js/453.c99e7e36.chunk.js": "/smart-store/static/js/453.c99e7e36.chunk.js",
+    "static/media/Allinone.png": "/smart-store/static/media/Allinone.a78f2bbe2672fdb75cc2.png",
+    "static/media/FastDelivery.png": "/smart-store/static/media/FastDelivery.1afd7ddb3b8c5a762e66.png",
+    "static/media/AllProducts.png": "/smart-store/static/media/AllProducts.c27b09705e17985a4dad.png",
+    "static/media/CreditCard.png": "/smart-store/static/media/CreditCard.ae9d027e789a36a37e8d.png",
     "index.html": "/smart-store/index.html",
-    "main.ff02f4b5.css.map": "/smart-store/static/css/main.ff02f4b5.css.map",
-    "main.b4ece9e8.js.map": "/smart-store/static/js/main.b4ece9e8.js.map",
+    "main.17abc7a1.css.map": "/smart-store/static/css/main.17abc7a1.css.map",
+    "main.9d0ded03.js.map": "/smart-store/static/js/main.9d0ded03.js.map",
     "453.c99e7e36.chunk.js.map": "/smart-store/static/js/453.c99e7e36.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff02f4b5.css",
-    "static/js/main.b4ece9e8.js"
+    "static/css/main.17abc7a1.css",
+    "static/js/main.9d0ded03.js"
   ]
 }
