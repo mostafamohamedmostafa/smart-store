@@ -2,10 +2,14 @@
 
 
 function WhyUsLandingPage() {
-    return <div className="WhyUsLandingPage">
+    return(
 
+         <div className="WhyUsLandingPage">
+
+  </div>
+    )
         
-    </div>;
+   ;
   }
   
   export default WhyUsLandingPage;
